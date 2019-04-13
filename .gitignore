@@ -1,0 +1,6 @@
+*/*/vendor
+!*/*/vendor/.gitkeep
+*/*/cache/*
+!*/*/cache/.gitkeep
+.dot
+.editorconfig
